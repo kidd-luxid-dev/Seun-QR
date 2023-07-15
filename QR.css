@@ -1,0 +1,63 @@
+body{
+    background-color: bisque;
+}
+.blank{
+    background-color: aquamarine;
+    width: 90%;
+    height: 90%;
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.texted{
+    width: 290px;
+    height: 450px;
+    background-color: white;
+    border-radius: 7px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+img{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 7px;
+    width: 250px;
+}
+h1{
+    font-size: 20px;
+    position: relative;
+    top: 65%;
+    left: 51%;
+    transform: translate(-45%, -45%);
+}
+.meh{
+    margin-left: 30px;
+}
+h2{
+    margin-top: 10%;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.fr, .klu{
+    color: blue;
+    text-decoration: underline;
+}
+h3{
+    margin-top: 100%;
+    margin-left: 25px;
+    font-size: 15px;
+    color: burlywood;
+}
+.mentorline{
+    margin-left: px;
+}
+.nxt{
+    margin-left: 50px;
+}
